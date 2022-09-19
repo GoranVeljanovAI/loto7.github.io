@@ -42,7 +42,7 @@ button {
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    background: rgba(0,0,0,.5);
+    background: rgba(0,0,0,.8);
     font-size: 32px;
     color: white;
     font-weight: bold;
