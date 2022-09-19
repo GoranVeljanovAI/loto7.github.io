@@ -1,0 +1,52 @@
+body {
+
+    background: url('../images/koi.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-align: center;
+
+}
+
+h1 {
+    color: black;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 18px;
+    color: green;
+    font-weight: bold;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    width: 50px;
+    border-top: 2px solid #ccc;
+    margin: 20px auto 25px auto;
+}
+button {
+    background: none;
+    border: 1px solid black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: rgba(0,0,0,.5);
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+    line-height: 118px;
+    text-align: center;
+    border: 2px solid white;
+}
